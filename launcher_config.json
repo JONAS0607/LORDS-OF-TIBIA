@@ -14,6 +14,6 @@
 		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/JONAS0607/LORDS-OF-TIBIA/releases/download/1.0.1/client-to-update.zip",
+	"newClientUrl" : "https://github.com/JONAS0607/LORDS-OF-TIBIA/releases/download/1.0.0/client-to-update.zip",
 	"clientExecutable": "client.exe"
 }
